@@ -1,0 +1,146 @@
+[
+    {
+        "adress": "Esmeralda 940 L.4 - Valparaíso",
+        "latlon": [
+            -72.0245521,
+            -37.1212304
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201096",
+            "600 200 0015",
+            "+56712207838"
+        ],
+        "agent": "",
+        "working_hours": [
+            " Mañana: 08.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)"
+        ]
+    },
+    {
+        "adress": "San Antonio 399 - Santiago",
+        "latlon": [
+            -70.6482234,
+            -33.4383258
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201020",
+            "600 200 0015",
+            "+56712207838"
+        ],
+        "agent": "Srta. Romina Alarcón E.",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "adress": "Bernardo O Higgins 479 - San Fernando",
+        "latlon": [
+            -70.6548654,
+            -32.7491637
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201048",
+            "600 200 0015",
+            "+56712207838"
+        ],
+        "agent": "Sr. José Miguel Hidalgo R.",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "adress": "Claudina Urrutia 356 - Cauquenes",
+        "latlon": [
+            -72.3143546,
+            -35.9617894
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201004",
+            "600 200 0015",
+            "+56712207838"
+        ],
+        "agent": "Sr. Carlos Lillo G.",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "adress": "Valdivia 320 - Los Ángeles",
+        "latlon": [
+            -72.35252,
+            -37.469879
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201098",
+            "600 200 0015",
+            "+56712207838"
+        ],
+        "agent": "Sra. Érika Cifuentes C.",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "adress": "18 de Septiembre 618 - Chillán",
+        "latlon": [
+            -72.1071332,
+            -36.6146223
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201062",
+            "600 200 0015",
+            "+56712207838"
+        ],
+        "agent": "Sr. Álex Castillo R.",
+        "working_hours": [
+            " Mañana: 08.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 hrs. (L a J) / Hasta 16.10 hrs. (V)"
+        ]
+    },
+    {
+        "adress": "Manuel Bulnes 649, local 2A - Temuco",
+        "latlon": [
+            -72.5890492,
+            -38.7385702
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201067",
+            "600 200 0015",
+            "+56712207838"
+        ],
+        "agent": "Sr. Jaime Pérez B.",
+        "working_hours": [
+            " Mañana: 08.50 a 14.10 horas",
+            " Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)"
+        ]
+    },
+    {
+        "adress": "Antonio Varas 472 - Puerto Montt",
+        "latlon": [
+            -72.9508934,
+            -41.4757343
+        ],
+        "name": "Oriencoop",
+        "phones": [
+            "71-2201094",
+            "600 200 0015",
+            "+56712207838"
+        ],
+        "agent": "Srta. María Eugenia Santana N.",
+        "working_hours": [
+            " Mañana: 8.50 a 14.10 hrs.",
+            " Tarde: 15.00 a 17.10 horas (L a J) / Hasta 16.10 horas (V)"
+        ]
+    }
+]
